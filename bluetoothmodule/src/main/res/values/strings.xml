@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth Attendance</string>
+    <string name="start_attendance">Start Attendance Registration </string>
+    <string name="select_admin_device">Select Admin Device</string>
+</resources>
